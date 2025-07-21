@@ -23,4 +23,12 @@ This is a Netflix homepage clone built using only **HTML** and **CSS**. It is a 
 ## 🛠️ Technologies Used
 
 - HTML5  
-- CSS3  
+- CSS3
+
+---
+
+## 📽️ Project Preview
+
+![Preview 1](./assets/Screenshot1.png)
+![Preview 1](./assets/Screenshot2.png)
+![Preview 1](./assets/Screenshot3.png)
